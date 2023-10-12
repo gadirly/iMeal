@@ -1,0 +1,6 @@
+framework module Pods_iMeal {
+  umbrella header "Pods-iMeal-umbrella.h"
+
+  export *
+  module * { export * }
+}
