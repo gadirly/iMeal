@@ -1,0 +1,1 @@
+Meal app with basic features using SwiftUI, MVVM and The Meal DB public API. Home view listing popular and new recipes (not really), details view, and search view. The design for this app is available on Dribbble.
