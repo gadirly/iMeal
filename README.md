@@ -1,6 +1,6 @@
 <h1>iOS iMeal Recipes App</h1>
 
-<p>The iOS Recipes App is a feature-rich mobile application designed to help users discover and explore a wide variety of delicious meals. The app uses the <a href="https://www.themealdb.com/">TheMealDB API</a> to provide wide range of meals and recipes </p>
+<p>The iOS Recipes App is a feature-rich mobile application designed to help users discover and explore delicious meals. The app uses the <a href="https://www.themealdb.com/">TheMealDB API</a> to provide wide range of meals and recipes.</p>
 
 <h2>Key Features:</h2>
 
